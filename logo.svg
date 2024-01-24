@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#B70B0B;}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{fill:url(#SVGID_3_);}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="399.5981" y1="614.3779" x2="838.459" y2="614.3779">
+		<stop  offset="6.766293e-07" style="stop-color:#ED1C24"/>
+		<stop  offset="0.7648" style="stop-color:#C1011A"/>
+		<stop  offset="1" style="stop-color:#BF001A"/>
+	</linearGradient>
+	<path class="st0" d="M554.02,895.74c0,0,198.94-50.79,162.69-171.85c-31.47-105.12-160.9-99.13-234.61-147.29
+		c-53.33-34.85-90.94-65.48-80.88-104.49c15.57-60.43,126.05-121.48,229.28-139.1c0,0-98.2,55.39-10.07,110.78
+		c88.12,55.39,274.44,161.14,201.43,304.66C748.84,891.97,554.02,895.74,554.02,895.74z"/>
+	<path class="st1" d="M668.83,751.86c3.85,26.62-7.91,54.04-27.08,72.92s-44.94,29.95-71.26,35.49
+		c-77.9,16.42-164.01-16.49-211.11-80.68S306.73,623.39,345.76,554c-5.95,40.23-5.1,82.89,12.62,119.49
+		c17.72,36.6,55.18,65.56,95.82,64.12c54.04-1.93,99.5-54.16,153.07-46.83C638,694.98,664.39,721.16,668.83,751.86z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="319.7411" y1="752.1481" x2="522.3264" y2="752.1481">
+		<stop  offset="6.766293e-07" style="stop-color:#ED1C24"/>
+		<stop  offset="1" style="stop-color:#BF001A"/>
+	</linearGradient>
+	<path class="st2" d="M320.15,644.61c14.84,61.23,42.53,90.8,61.48,105.64c49.98,39.14,94.12,51.14,94.12,51.14
+		c18.96,5.16,41.55,8.48,45.83,22.78c2.51,8.38-1.56,19.74-9.11,26.96c-8.55,8.18-18.97,8.54-21.41,8.56
+		c-15.8-2.55-77.54-14.42-124.44-70.85C316.12,728.07,319.16,659.31,320.15,644.61z"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="619.0285" y1="375.9889" x2="704.9842" y2="375.9889">
+		<stop  offset="6.766293e-07" style="stop-color:#ED1C24"/>
+		<stop  offset="1" style="stop-color:#BF001A"/>
+	</linearGradient>
+	<circle class="st3" cx="662.01" cy="375.99" r="42.98"/>
+</g>
+</svg>
